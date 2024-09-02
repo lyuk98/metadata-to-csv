@@ -1,0 +1,9 @@
+[package]
+name = "metadata-to-csv"
+version = "0.1.0"
+authors = ["이영욱"]
+edition = "2021"
+description = "Retrieve metadata from photos and save it in CSV format"
+repository = "https://github.com/lyuk98/metadata-to-csv"
+
+[dependencies]
